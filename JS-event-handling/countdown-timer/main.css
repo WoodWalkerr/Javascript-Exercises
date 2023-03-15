@@ -11,6 +11,7 @@ img {
 #countdown div h2 {
   text-align: center;
   padding: 90px;
+  font-size: 90px;
 }
 
 .hidden {
