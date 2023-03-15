@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #333;
+}
+.clock {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 12rem;
+  color: #fff;
+}
+
+table {
+  border: 3px solid #1a1a1a;
+  height: 200px;
+  width: 200px;
+  vertical-align: middle;
+  border-radius: 50%;
+  text-align: center;
+  padding: 5px;
+  color: #fff;
+  border-color: #117810;
+}
